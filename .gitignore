@@ -4,4 +4,4 @@ lib
 .check-deps
 *.dll
 *.tmproj
-
+.project
